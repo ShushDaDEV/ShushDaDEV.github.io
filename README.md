@@ -4,7 +4,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Coconut</title>
 </head>
 <body>
   <h1>Coconut</h1>
